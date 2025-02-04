@@ -6,4 +6,5 @@ public class HelloWorld {
     public static String getHelloWorldMessage() {
         return "Hello, World!";
     }
+}
 
